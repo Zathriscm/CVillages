@@ -1,0 +1,9 @@
+{
+  "feature": "settlement-roads:road_feature",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    }
+  ]
+}
